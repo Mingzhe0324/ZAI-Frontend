@@ -1,0 +1,6 @@
+{
+  "name": "ILMU AI",
+  "description": "A sophisticated AI companion powered by ILMU-GLM-5.1, featuring a clean, high-tech conversational interface.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
